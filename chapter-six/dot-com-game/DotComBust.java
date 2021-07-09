@@ -6,6 +6,7 @@ public class DotComBust {
     private ArrayList<DotCom> allDotComs = new ArrayList<DotCom>();
     // private GameHelper gameHelper = new GameHelper();
     private int numGuesses = 0;
+
     public static void main(String[] args) {
         DotComBust game = new DotComBust();
 
