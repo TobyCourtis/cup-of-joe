@@ -49,7 +49,6 @@ public class DotComBust {
     }
 
     public void startPlaying(){
-        // while dotCom array is not empty
         while (!allDotComs.isEmpty()){
             System.out.print("Please enter a number: ");
             Scanner scan = new Scanner(System.in);
