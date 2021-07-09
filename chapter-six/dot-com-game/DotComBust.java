@@ -21,7 +21,7 @@ public class DotComBust {
             add("A1");
             add("A2");
             add("A3");
-        }};
+        }}  ;
         first.setName("tobycourtis.com");
         first.setLocationCells(locations);
 
